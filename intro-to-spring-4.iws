@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d9c09107-f959-4c53-8d4c-8f9d5b524473" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/intro-to-spring-4.iws" afterPath="$PROJECT_DIR$/intro-to-spring-4.iws" />
-    </list>
+    <list default="true" id="d9c09107-f959-4c53-8d4c-8f9d5b524473" name="Default" comment="" />
     <ignored path="intro-to-spring-4.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/ch01/target/" />
