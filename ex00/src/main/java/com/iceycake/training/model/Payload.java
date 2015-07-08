@@ -1,6 +1,9 @@
-package com.iceycake.training.ch00.model;
+package com.iceycake.training.model;
 
-public class Payload {
+import java.io.Serializable;
+
+public class Payload implements Serializable {
+    
     private String name;
     private int value;
     private String desc;

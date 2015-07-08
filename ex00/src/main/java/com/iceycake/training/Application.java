@@ -1,6 +1,6 @@
-package com.iceycake.training.ch00;
+package com.iceycake.training;
 
-import com.iceycake.training.ch00.model.Payload;
+import com.iceycake.training.model.Payload;
 
 public class Application {
 

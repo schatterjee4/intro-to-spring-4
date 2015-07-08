@@ -6,9 +6,21 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.iceycake.training</groupId>
-  <artifactId>intro-spring-ch00</artifactId>
+  <artifactId>intro-spring-ex00</artifactId>
   <version>1.0.0-SNAPSHOT</version>
-  <name>Introduction to Spring Framework 4.0 - Chapter 0</name>
+  <name>Introduction to Spring Framework 4.0 - Exercise 0</name>
   <packaging>jar</packaging>
+
+  <properties>
+    <jackson.version>1.9.13</jackson.version>
+  </properties>
+
+  <dependencies>
+    <dependency>
+      <groupId>org.codehaus.jackson</groupId>
+      <artifactId>jackson-mapper-asl</artifactId>
+      <version>${jackson.version}</version>
+    </dependency>
+  </dependencies>
 
 </project>

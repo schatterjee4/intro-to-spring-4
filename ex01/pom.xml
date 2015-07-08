@@ -6,13 +6,9 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.iceycake.training</groupId>
-  <artifactId>intro-spring</artifactId>
+  <artifactId>intro-spring-ex01</artifactId>
   <version>1.0.0-SNAPSHOT</version>
-  <name>Introduction to Spring Framework 4.0</name>
-  <packaging>pom</packaging>
+  <name>Introduction to Spring Framework 4.0 - Exercise 1</name>
+  <packaging>jar</packaging>
 
-  <modules>
-    <module>ex00</module>
-    <module>ex01</module>
-  </modules>
 </project>
