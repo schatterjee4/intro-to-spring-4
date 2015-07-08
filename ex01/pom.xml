@@ -11,4 +11,24 @@
   <name>Introduction to Spring Framework 4.0 - Exercise 1</name>
   <packaging>jar</packaging>
 
+  <properties>
+    <jackson.version>1.9.13</jackson.version>
+    <junit.version>4.12</junit.version>
+  </properties>
+
+  <dependencies>
+    <dependency>
+      <groupId>org.codehaus.jackson</groupId>
+      <artifactId>jackson-mapper-asl</artifactId>
+      <version>${jackson.version}</version>
+    </dependency>
+
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>${junit.version}</version>
+      <scope>test</scope>
+    </dependency>
+  </dependencies>
+
 </project>
